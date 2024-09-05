@@ -1,9 +1,10 @@
+<h1 align="center">Heyyy🤍, I'm ARISHA</h1>
  <div class="image-container">
         <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" align="center" alter='fading line' width="100%">
     </div>
     <br><br>
 
-<h1>A passionate engineering student from India</h3>
+<h2 align="center">A passionate engineering student from India</h3>
 
 ![version :29.6.24](https://img.shields.io/badge/version-29.6.24-informational&color=d400b4)&nbsp;
 
