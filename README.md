@@ -11,9 +11,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/ariii__07" target="blank"><img src="https://img.shields.io/twitter/follow/ariii__07?logo=twitter&style=for-the-badge" alt="ariii__07" /></a> </p>
-
-
 🎓 &nbsp; I am an engineering student at Bennett University (**B.Tech, Computer Science and Engineering, Batch of 2028**).\
 🕳️ &nbsp; I'm on my way to learn multiple programming languages as well as webapp development.\
 🎧 &nbsp; I'm currently learning **CSS, PHP, DJango, and Flask**.\
