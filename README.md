@@ -40,6 +40,3 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arisha-git&show_icons=true&locale=en&layout=compact" alt="arisha-git" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arisha-git" alt="arisha-git" /></a> </p>
