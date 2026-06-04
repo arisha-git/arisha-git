@@ -14,7 +14,7 @@
 ♡  uni → Bennett University
 ♡  focus → full-stack dev + AI/ML
 ♡  hobbies → writing, reading, surfing the web
-♡  status → currently in my build era 
+♡  status → becoming who i said i'd be 
 ```
 
 </div>
