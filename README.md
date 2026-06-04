@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&pause=1200&color=E8A0E8&center=true&vCenter=true&width=600&lines=✦building+full-stack+apps+from+scratch✦;✦exploring+AI+%2F+ML+one+model+at+a+time✦;✦always+learning%2C+always+deploying✦)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&pause=1200&color=E8A0E8&center=true&vCenter=true&width=600&lines=✦building+full-stack+apps+from+scratch✦;✦exploring+AI+one+model+at+a+time✦;✦always+learning%2C+always+deploying✦)
 
 </div>
 
