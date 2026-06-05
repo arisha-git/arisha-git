@@ -9,12 +9,12 @@
 <div align="center">
 
 ```
-♡  name → arisha ali
-♡  degree → b.tech cse, batch of 2028
-♡  uni → Bennett University
-♡  focus → full-stack dev + AI/ML
-♡  hobbies → writing, reading, surfing the web
-♡  status → becoming who i said i'd be 
+✶  name → arisha ali
+✶  degree → b.tech cse, batch of 2028
+✶  uni → Bennett University
+✶  focus → full-stack dev + AI/ML
+✶  hobbies → writing, reading, surfing the web
+✶  status → becoming who i said i'd be 
 ```
 
 </div>
